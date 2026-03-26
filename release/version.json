@@ -1,5 +1,5 @@
 {
-  "version": "1.5.6",
-  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware-v1.5.6.bin",
-  "notes": "Stable merged build"
+  "version": "1.5.7",
+  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware-v1.5.7.bin",
+  "notes": "OTA test release"
 }
