@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
-  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware-v1.5.9.bin",
-  "notes": "OTA message improvement and scheduler"
+  "version": "1.6.0",
+  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware-v1.6.0.bin",
+  "notes": "Stable OTA V1"
 }
