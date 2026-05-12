@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
-  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware_v1_7_3.bin",
-  "notes": "Improved Wi-Fi scan stability outside saved Wi-Fi environments."
+  "version": "1.7.4",
+  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware_v1_7_4.bin",
+  "notes": "Improved Wi-Fi setup scan stability and added retry for missed open or close state publish."
 }
