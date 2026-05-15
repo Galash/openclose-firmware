@@ -1,5 +1,5 @@
 {
   "version": "1.7.5",
-  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/openclose_v1_7_5.bin",
+  "firmware_url": "https://raw.githubusercontent.com/Galash/openclose-firmware/main/release/firmware_v1_7_5.bin",
   "notes": "Reduced heartbeat interval from 5 mins to 60 mins to reduce Pipedream executions and operational costs."
 }
